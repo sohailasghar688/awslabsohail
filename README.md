@@ -1,7 +1,8 @@
 # awslabsohail
 
 ####AWS keys must configure where we are running this terraform code. Shared in person!
-Key names are "test" and "test.pub". They should reside at the terraform files.
+
+Key file names are "test" and "test.pub". They should reside at the terraform files.
 
 
 erraform init ## after updating the keys
